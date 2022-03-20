@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/dadjokes/static/js/main.7c6dfdfe.js",
+    "static/js/787.f9a03bb8.chunk.js": "/dadjokes/static/js/787.f9a03bb8.chunk.js",
+    "index.html": "/dadjokes/index.html",
+    "main.7c6dfdfe.js.map": "/dadjokes/static/js/main.7c6dfdfe.js.map",
+    "787.f9a03bb8.chunk.js.map": "/dadjokes/static/js/787.f9a03bb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7c6dfdfe.js"
+  ]
+}
